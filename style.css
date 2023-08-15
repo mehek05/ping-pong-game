@@ -1,0 +1,54 @@
+
+.heading
+{
+width: 100%;
+text-align: center;
+box-shadow: 30px;
+}
+.heading h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start 
+{
+font-size: 25px;
+font-family: sans-serif;
+}
+#status{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#restart{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+h4
+{
+   background-color: indianred;
+   color:white;
+   line-height: 4;
+}
+canvas 
+  {
+      border:3px solid rgb(164, 205, 212);
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px rgb(199, 230, 201);
+  }
+  .Footer{
+    background-color: plum;
+    width: 100%;
+    color: rgb(197, 99, 99);
+    line-height: 1.5;
+    bottom: 0px;
+    position: bottom;
+    
+}
